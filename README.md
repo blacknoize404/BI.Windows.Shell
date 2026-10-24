@@ -1,6 +1,6 @@
 # BI.Windows.Shell
 
-![License](https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-lightgrey.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 Windows shell integration from Java, with no native code of its own (it uses the Foreign Function & Memory API of Java 25):
 
@@ -64,4 +64,4 @@ process by its title.
 
 ## License
 
-This project is distributed under the [CC BY-NC-SA 4.0](LICENSE) license.
+This project is distributed under the [Apache License 2.0](LICENSE).

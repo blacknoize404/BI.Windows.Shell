@@ -12,6 +12,14 @@
     <name>BI.Windows.Shell</name>
     <description>Integración con la shell de Windows desde Java: modo oscuro y menú contextual nativo del Explorador.</description>
 
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <properties>
         <maven.compiler.release>25</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
