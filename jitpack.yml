@@ -1,0 +1,4 @@
+jdk:
+  - openjdk25
+install:
+  - mvn -B -DskipTests -Dmaven.javadoc.skip=true install
